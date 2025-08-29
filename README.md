@@ -26,15 +26,7 @@ A simple **currency converter web app** that allows users to convert values betw
 │── flow.js             # Conversion logic (JavaScript)
 ```
 
----
 
-## 🖼️ Screenshots  
-
-> Add screenshots of your app here  
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Currency+Converter+App)  
-
----
 
 ## ⚡ How to Run  
 
